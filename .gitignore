@@ -1,5 +1,8 @@
 *
 !.gitignore
 !LICENSE
+!PKGBUILD
+!.SRCINFO
+!mod.json
 !*.po
 !*.bash

@@ -1,0 +1,9 @@
+{
+	"name": "vi-lang",
+	"version": "0.0.26",
+	"label": "Vietnamese Language Pack",
+	"url": "https://github.com/khai-plays-0ad/vietnamese-translations.git",
+	"ignoreInCompatibilityChecks": true,
+	"description": "Vietnamese Translations",
+	"dependencies": ["0ad=0.0.26"]
+}

@@ -1,0 +1,204 @@
+# Translation template for 0 A.D. — Empires Ascendant.
+# Copyright (C) 2022 Wildfire Games
+# This file is distributed under the same license as the 0 A.D. — Empires Ascendant
+# project.
+# Translators:
+# Huynh Yen Loc <yenloc@outlook.com>, 2021
+# YubiGalaxy <yubigalaxy@gmail.com>, 2021
+# DUC PHM <ducphm337@gmail.com>, 2021
+# Do Phan <thuthom.nguyen@gmail.com>, 2021
+# Nghĩa Cipher, 2022
+# Christopher Wilson, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 0 A.D. — Empires Ascendant\n"
+"POT-Creation-Date: 2022-10-22 14:55+0000\n"
+"PO-Revision-Date: 2021-04-23 16:19+0000\n"
+"Last-Translator: Christopher Wilson, 2022\n"
+"Language-Team: Vietnamese (https://app.transifex.com/wildfire-games/teams/17418/vi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: campaigns/new_maps.jsonDescription
+msgctxt "Campaign Template"
+msgid ""
+"Discover the new and improved maps in Alpha XXVII with a demo campaign, "
+"taking you through all of them."
+msgstr ""
+
+#: campaigns/new_maps.jsonName
+msgctxt "Campaign Template"
+msgid "Demo campaign - new maps"
+msgstr "Demo chiến dịch - Bản đồ mới"
+
+#: campaigns/tutorial.jsonDescription
+msgctxt "Campaign Template"
+msgid "Learn how to play 0 A.D."
+msgstr "Học cách để chơi 0 A.D."
+
+#: campaigns/tutorial.jsonLevels.eco_walkthrough.Description
+msgctxt "Campaign Template"
+msgid ""
+"This map will give a rough guide for starting the game effectively.  Early "
+"in the game the most important thing is to gather resources as fast as "
+"possible so you are able to build enough troops later. Warning: This is very"
+" fast at the start, be prepared to run through the initial bit several "
+"times."
+msgstr ""
+"  Hãy nhìn qua bản đồ,nó sẽ cho bạn một hướng dẫn sơ qua về cách game này vận hành. Thời gian đầu trận là rất quan trọng để bạn thu thập tài nguyên càng nhiều càng tốt,nhằm xây dựng một quân đội hùng mạnh ít lát nữa.\n"
+"  Lưu Ý: Khoảng đầu trận diễn ra rất nhanh,hãy sẵn sàng tâm thế để đối đầu với mọi khó khăn đang chờ đợi bạn"
+
+#: campaigns/tutorial.jsonLevels.eco_walkthrough.Name
+msgctxt "Campaign Template"
+msgid "Economy Walkthrough"
+msgstr "Hướng dẫn Kinh tế"
+
+#: campaigns/tutorial.jsonLevels.introduction.Description
+msgctxt "Campaign Template"
+msgid "This is a basic tutorial to get you started playing 0 A.D."
+msgstr "Đây là những hướng dẫn cơ bản giúp bạn bắt đầu chơi 0 A.D."
+
+#: campaigns/tutorial.jsonLevels.introduction.Name
+msgctxt "Campaign Template"
+msgid "Introductory Tutorial"
+msgstr "Hướng dẫn Nhập môn"
+
+#: campaigns/tutorial.jsonName
+msgctxt "Campaign Template"
+msgid "Tutorial"
+msgstr "Hướng dẫn"
+
+#: gui/campaigns/default_menu/CampaignMenu.js:155
+msgctxt "campaign status"
+msgid "Completed"
+msgstr "Hoàn thành"
+
+#: gui/campaigns/default_menu/CampaignMenu.js:157
+msgctxt "campaign status"
+msgid "Available"
+msgstr "Có sẵn"
+
+#: gui/campaigns/default_menu/CampaignMenu.js:216
+#, javascript-format
+msgid "Error loading campaign run %s: %s."
+msgstr "Lỗi khi tải chiến dịch: %s: %s."
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(caption):14
+msgid "Campaign Name"
+msgstr "Tên chiến dịch"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(caption):45
+msgid "No scenario selected"
+msgstr "Không có màn nào được chọn"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(caption):58
+msgid "Back to Main Menu"
+msgstr "Quay lại Menu chính"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(caption):62
+msgid "Saved Games"
+msgstr "Đã lưu màn chơi"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(caption):66
+msgid "Start Scenario"
+msgstr "Bắt đầu màn chơi"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(caption):69
+msgid "Resume Saved Game"
+msgstr "Chơi tiếp game màn đã lưu"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(heading):27
+msgctxt "campaignLevelList"
+msgid "Scenario Name"
+msgstr "Tên màn chơi"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(heading):31
+msgctxt "campaignLevelList"
+msgid "Status"
+msgstr "Trạng thái"
+
+#: gui/campaigns/load_modal/LoadModal.js:18
+msgid "file cannot be loaded"
+msgstr "không thể tải tệp"
+
+#: gui/campaigns/load_modal/LoadModal.js:104
+#, javascript-format
+msgid "Are you sure you want to delete run %s? This cannot be undone."
+msgstr "Bạn có chắc chắn muốn xoá %s? Điều này không thể hoàn tác."
+
+#: gui/campaigns/load_modal/LoadModal.js:105
+msgid "Confirmation"
+msgstr "Xác nhận"
+
+#: gui/campaigns/load_modal/LoadModal.js:106
+msgid "No"
+msgstr "Không"
+
+#: gui/campaigns/load_modal/LoadModal.js:106
+msgid "Yes"
+msgstr "Có"
+
+#: gui/campaigns/load_modal/LoadModal.xml:(caption):13
+#: gui/campaigns/load_modal/LoadModal.xml:(caption):39
+msgid "Load Campaign"
+msgstr "Tải chiến dịch"
+
+#: gui/campaigns/load_modal/LoadModal.xml:(caption):20
+msgid "No ongoing campaigns."
+msgstr "Không có chiến dịch đang diễn ra."
+
+#: gui/campaigns/load_modal/LoadModal.xml:(caption):24
+msgid "Name of selected run:"
+msgstr "Tên cuộc hành trình đã chọn:"
+
+#: gui/campaigns/load_modal/LoadModal.xml:(caption):31
+#: gui/campaigns/new_modal/NewCampaignModal.xml:(caption):23
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+#: gui/campaigns/load_modal/LoadModal.xml:(caption):35
+msgid "Delete"
+msgstr "Xóa"
+
+#: gui/campaigns/new_modal/NewCampaignModal.xml:(caption):12
+msgid "Start a campaign"
+msgstr "Bắt đầu một chiến dịch"
+
+#: gui/campaigns/new_modal/NewCampaignModal.xml:(caption):16
+msgid "Please enter the name of your new campaign run:"
+msgstr "Vui lòng nhập tên chiến dịch mới của bạn:"
+
+#: gui/campaigns/new_modal/NewCampaignModal.xml:(caption):27
+#: gui/campaigns/setup/CampaignSetupPage.xml:(caption):55
+msgid "Start Campaign"
+msgstr "Bắt đầu chiến dịch"
+
+#: gui/campaigns/setup/CampaignSetupPage.js:40
+msgid "No campaign selected."
+msgstr "Không chiến dịch nào được chọn."
+
+#: gui/campaigns/setup/CampaignSetupPage.xml:(caption):10
+msgid "Campaigns"
+msgstr "Nhiệm vụ"
+
+#: gui/campaigns/setup/CampaignSetupPage.xml:(caption):37
+msgid "No Campaign selected"
+msgstr "Không có Chiến Dịch nào được chọn"
+
+#: gui/campaigns/setup/CampaignSetupPage.xml:(caption):50
+msgid "Main Menu"
+msgstr "Menu chính"
+
+#: gui/campaigns/setup/CampaignSetupPage.xml:(heading):26
+msgctxt "campaignsetup"
+msgid "Name"
+msgstr "Tên"
+
+#: gui/common/campaigns/CampaignRun.js:117
+#, javascript-format
+msgid "%(userDesc)s - %(templateName)s"
+msgstr "%(userDesc)s - %(templateName)s"

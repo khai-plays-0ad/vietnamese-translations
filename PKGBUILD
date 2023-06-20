@@ -19,23 +19,45 @@ source=(
   'LICENSE'
   'mod.json'
   'for_use_0ad_engine_vi.po'
+  'for_use_0ad_mod-selector_vi.po'
   'for_use_0ad_public-civilizations_vi.po'
   'for_use_0ad_public-gui-campaigns_vi.po'
   'for_use_0ad_public-gui-gamesetup_vi.po'
+  'for_use_0ad_public-gui-ingame_vi.po'
+  'for_use_0ad_public-gui-lobby_vi.po'
+  'for_use_0ad_public-gui-manual_vi.po'
+  'for_use_0ad_public-gui-other_vi.po'
+  'for_use_0ad_public-gui-userreport_vi.po'
+  'for_use_0ad_public-maps_vi.po'
   'for_use_0ad_public-simulation-auras_vi.po'
+  'for_use_0ad_public-simulation-other_vi.po'
+  'for_use_0ad_public-simulation-technologies_vi.po'
   'for_use_0ad_public-templates-buildings_vi.po'
+  'for_use_0ad_public-templates-other_vi.po'
   'for_use_0ad_public-templates-units_vi.po'
+  'for_use_0ad_public-tutorials_vi.po'
 )
 sha1sums=(
   'SKIP' # LICENSE
   'SKIP' # mod.json
   'SKIP' # for_use_0ad_engine_vi.po
+  'SKIP' # for_use_0ad_mod-selector_vi.po
   'SKIP' # for_use_0ad_public-civilizations_vi.po
   'SKIP' # for_use_0ad_public-gui-campaigns_vi.po
   'SKIP' # for_use_0ad_public-gui-gamesetup_vi.po
+  'SKIP' # for_use_0ad_public-gui-ingame_vi.po
+  'SKIP' # for_use_0ad_public-gui-lobby_vi.po
+  'SKIP' # for_use_0ad_public-gui-manual_vi.po
+  'SKIP' # for_use_0ad_public-gui-other_vi.po
+  'SKIP' # for_use_0ad_public-gui-userreport_vi.po
+  'SKIP' # for_use_0ad_public-maps_vi.po
   'SKIP' # for_use_0ad_public-simulation-auras_vi.po
+  'SKIP' # for_use_0ad_public-simulation-other_vi.po
+  'SKIP' # for_use_0ad_public-simulation-technologies_vi.po
   'SKIP' # for_use_0ad_public-templates-buildings_vi.po
+  'SKIP' # for_use_0ad_public-templates-other_vi.po
   'SKIP' # for_use_0ad_public-templates-units_vi.po
+  'SKIP' # for_use_0ad_public-tutorials_vi.po
 )
 
 _verify_modjson_field() {

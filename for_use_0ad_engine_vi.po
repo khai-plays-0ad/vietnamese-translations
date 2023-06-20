@@ -187,7 +187,7 @@ msgstr "Tài khoản của bạn đã được đăng ký thành công"
 
 #: lobby/XmppClient.cpp:1470
 msgid "Not all necessary information provided"
-msgstr "Toàn bộ thông tin cần thiết chưa được cung cấp"
+msgstr "Tất cả thông tin cần thiết chưa được cung cấp"
 
 #: lobby/XmppClient.cpp:1471
 msgid "Username already exists"

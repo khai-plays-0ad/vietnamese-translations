@@ -4,6 +4,7 @@
 # project.
 # Translators:
 # Hoàng Văn Khải, 2023
+# Hoàng Văn Khải, 2023
 # M1nkd3 <kimtan090807@gmail.com>, 2020
 # Nghĩa Cipher, 2022
 # Nguyen Dinh Phuoc Duc <ndpduc@gmail.com>, 2014
@@ -1255,7 +1256,7 @@ msgid ""
 "Higher health tower with ramparts for up to 16 archers. Visibly garrisoned "
 "archers recieve a range and armor bonus. Only archers can garrison. Needs "
 "the murder holes tech to protect its foot."
-msgstr "Tháp nhiều máu hơn với lũy chứa đến 16 cung thủ. Các cung thủ đóng quân rõ ràng được cải thiện tầm và giáp. Chỉ cung thủ mới có thể đóng quân. Cần công nghệ lỗ giết người để bảo vệ chân."
+msgstr "Tháp nhiều máu hơn với lũy chứa đến 16 xạ thủ. Các xạ thủ đóng quân rõ ràng được cải thiện tầm và giáp. Chỉ xạ thủ mới có thể đóng quân. Cần công nghệ lỗ giết người để bảo vệ chân."
 
 #: simulation/templates/structures/maur/wall_gate.xml:15
 msgid "Dwara"
@@ -1735,7 +1736,7 @@ msgstr ""
 
 #: simulation/templates/structures/shrine_chinese.xml:9
 msgid "Bǎotǎ"
-msgstr ""
+msgstr "Bảo Tháp"
 
 #: simulation/templates/structures/shrine_egyptian.xml:5
 #: simulation/templates/structures/shrine_kushite.xml:5

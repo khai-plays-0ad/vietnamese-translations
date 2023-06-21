@@ -883,7 +883,7 @@ msgstr "Naos Parthenos"
 
 #: simulation/templates/structures/hellenic_epic_temple.xml:25
 msgid "Garrison units to heal them at a quick rate."
-msgstr "Đóng quân để trị thương với tốc độ nhanh chóng."
+msgstr "Đồn trú để trị thương với tốc độ nhanh chóng."
 
 #: simulation/templates/structures/hellenic_propylaea.xml:20
 msgid "Portico"
@@ -1256,7 +1256,7 @@ msgid ""
 "Higher health tower with ramparts for up to 16 archers. Visibly garrisoned "
 "archers recieve a range and armor bonus. Only archers can garrison. Needs "
 "the murder holes tech to protect its foot."
-msgstr "Tháp nhiều máu hơn với lũy chứa đến 16 xạ thủ. Các xạ thủ đóng quân rõ ràng được cải thiện tầm và giáp. Chỉ xạ thủ mới có thể đóng quân. Cần công nghệ lỗ giết người để bảo vệ chân."
+msgstr "Tháp nhiều máu hơn với lũy chứa đến 16 xạ thủ. Các xạ thủ đồn trú rõ ràng được cải thiện tầm và giáp. Chỉ xạ thủ mới có thể đồn trú. Cần công nghệ lỗ giết người để bảo vệ chân."
 
 #: simulation/templates/structures/maur/wall_gate.xml:15
 msgid "Dwara"

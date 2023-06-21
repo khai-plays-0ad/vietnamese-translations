@@ -1824,7 +1824,7 @@ msgstr "Y Sư"
 
 #: simulation/templates/units/han/support_minister.xml:41
 msgid "Imperial Minister"
-msgstr ""
+msgstr "Bộ trưởng"
 
 #: simulation/templates/units/han/support_minister.xml:42
 msgid "Guānlì"

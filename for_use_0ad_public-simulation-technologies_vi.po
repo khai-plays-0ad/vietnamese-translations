@@ -322,7 +322,7 @@ msgstr "Công trình +10% máu và +10% điểm chiếm đoạt"
 msgid ""
 "By uniting China under one emperor, the Han Dynasty ruled over 40 million "
 "people, one of the largest empires of antiquity by population."
-msgstr ""
+msgstr "Bằng cách thống nhất Trung Quốc dưới một hoàng đế, nhà Hán đã cai trị hơn 40 triệu người, một trong những đế chế cổ đại lớn nhất tính theo dân số."
 
 #: simulation/data/technologies/civbonuses/han_population.jsongenericName
 msgid "Federated States"

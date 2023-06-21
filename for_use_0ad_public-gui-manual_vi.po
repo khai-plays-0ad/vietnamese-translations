@@ -746,7 +746,7 @@ msgstr ""
 
 #: gui/manual/manual.xml:(caption):13
 msgid "Manual"
-msgstr "Hướng dẫn"
+msgstr "Hướng dẫn sử dụng"
 
 #: gui/manual/manual.xml:(caption):21
 msgid "Close"

@@ -188,7 +188,7 @@ msgstr "Quân địch"
 #: gui/session/chat/ChatAddressees.js:121
 msgctxt "chat addressee"
 msgid "Observers"
-msgstr ""
+msgstr "Quan sát viên"
 
 #: gui/session/chat/ChatAddressees.js:122
 msgctxt "chat message context"
@@ -803,19 +803,19 @@ msgstr "Xác nhận"
 
 #: gui/session/message_box/QuitConfirmation.js:9
 msgid "The game has finished, what do you want to do?"
-msgstr ""
+msgstr "Trò chơi đã kết thúc, bạn muốn làm gì?"
 
 #. Translation: Shown in the Dialog that shows up when the game finishes
 #: gui/session/message_box/QuitConfirmation.js:15
 #: gui/session/message_box/QuitConfirmationReplay.js:23
 msgid "Stay"
-msgstr ""
+msgstr "Ở lại"
 
 #. Translation: Shown in the Dialog that shows up when the game finishes
 #: gui/session/message_box/QuitConfirmation.js:19
 #: gui/session/message_box/QuitConfirmationReplay.js:27
 msgid "Quit and View Summary"
-msgstr ""
+msgstr "Thoát và Xem Tổng Quát"
 
 #: gui/session/message_box/QuitConfirmationDefeat.js:54
 msgid "VICTORIOUS!"
@@ -836,7 +836,7 @@ msgstr ""
 
 #: gui/session/message_box/QuitConfirmationMenu.js:47
 msgid "Are you sure you want to quit?"
-msgstr ""
+msgstr "Bạn có chắc muốn thoát không?"
 
 #: gui/session/message_box/QuitConfirmationMenu.js:67
 msgid "Do you want to resign or will you return soon?"
@@ -1402,7 +1402,7 @@ msgstr ""
 #: gui/session/diplomacy/DiplomacyDialog.xml:(caption):10
 #: gui/session/top_panel/IconButtons/DiplomacyDialogButton.js:29
 msgid "Diplomacy"
-msgstr ""
+msgstr "Ngoại giao"
 
 #: gui/session/top_panel/IconButtons/GameSpeedButton.xml:(tooltip):9
 msgid "Game Speed"

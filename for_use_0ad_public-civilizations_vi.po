@@ -992,7 +992,7 @@ msgstr ""
 
 #: simulation/templates/special/players/pers.xml:8
 msgid "Persians"
-msgstr "Quân Persian"
+msgstr "Persia"
 
 #: simulation/templates/special/players/pers.xml:9
 msgid ""

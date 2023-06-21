@@ -689,7 +689,7 @@ msgstr ""
 
 #: maps/random/persian_highlands.jsonsettings.Name
 msgid "Persian Highlands"
-msgstr "Các cao nguyên vùng Persian"
+msgstr "Các cao nguyên vùng Ba Tư"
 
 #: maps/random/phoenician_levant.jsonsettings.Description
 msgid ""
@@ -1869,7 +1869,7 @@ msgstr "Sparta"
 #: maps/scenarios/sandbox_athenians.xml:PlayerData[2].Name:38
 #: maps/scenarios/sandbox_macedonians.xml:PlayerData[2].Name:38
 msgid "The Persians"
-msgstr "Persia"
+msgstr "Ba Tư"
 
 #: maps/scenarios/sandbox_athenians.xml:PlayerData[3].Name:38
 #: maps/scenarios/sandbox_macedonians.xml:PlayerData[3].Name:38
@@ -2066,7 +2066,7 @@ msgstr "Greece"
 
 #: maps/scenarios/serengeti.xml:PlayerData[3].Name:26
 msgid "Persia"
-msgstr "Persia"
+msgstr "Ba Tư"
 
 #: maps/scenarios/ship_formations.xml:Description:26
 msgid "Ship formations mockup."
@@ -2092,7 +2092,7 @@ msgstr "Thử nghiệm Những chiếc thuyền"
 msgid ""
 "Carthage vs. Macedon vs. Persia vs. Iberia! A large oasis acts as the hub of"
 " mountainous spokes that divide the home territories of each player."
-msgstr "Carthage vs. Macedon vs. Persia vs. Iberia! Một ốc đảo rộng lớn đóng vai trò như một trục núi non phân chia các lãnh thổ của mỗi người chơi."
+msgstr "Carthage vs. Macedon vs. Ba Tư vs. Iberia! Một ốc đảo rộng lớn đóng vai trò như một trục núi non phân chia các lãnh thổ của mỗi người chơi."
 
 #: maps/scenarios/siwa_oasis.xml:Name:26
 msgid "Siwa Oasis"
@@ -2137,11 +2137,11 @@ msgid ""
 "\"Beware such pride. The East has a way of swallowing men and their dreams.\"\n"
 "\n"
 "Will Alexander push his way through The Persian Gates and fulfill his destiny, or will Ariobarzanes defend the rugged ancient land of Persis against a foreign invader?"
-msgstr "\"Giấc mơ Greek luôn hướng về Phương Đông\"\n\nHãy thận trọng về niềm kiêu hãnh này. Phương Đông có cách để ăn tươi nuốt sống những người lính và giấc mơ của họ.\n\nLiệu Alexander có thể vượt qua Những Cánh Cổng Persian và hoàn thành sứ mệnh của mình, hay Ariobarzanes sẽ bảo vệ vùng đất tổ tiên ghồ ghề của người Persis chống lại quân xâm lược ngoại bang?"
+msgstr "\"Giấc mơ Hy Lạp luôn hướng về Phương Đông\"\n\nHãy thận trọng về niềm kiêu hãnh này. Phương Đông có cách để ăn tươi nuốt sống những người lính và giấc mơ của họ.\n\nLiệu Alexander có thể vượt qua Những Cánh Cổng Ba Tư và hoàn thành sứ mệnh của mình, hay Ariobarzanes sẽ bảo vệ vùng đất tổ tiên ghồ ghề của người Persis chống lại quân xâm lược ngoại bang?"
 
 #: maps/scenarios/the_persian_gates.xml:Name:26
 msgid "The Persian Gates"
-msgstr "Những Cánh Cổng Persian"
+msgstr "Những Cánh Cổng Ba Tư"
 
 #: maps/scenarios/the_persian_gates.xml:PlayerData[0].Name:26
 msgid "Alexandros Megas"
@@ -2157,7 +2157,7 @@ msgstr "Ariobarzanes"
 
 #: maps/scenarios/the_persian_gates.xml:PlayerData[3].Name:26
 msgid "Persians"
-msgstr "Quân Persian"
+msgstr "Ba Tư"
 
 #: maps/scenarios/third_macedonian_war.xml:Description:26
 msgid ""

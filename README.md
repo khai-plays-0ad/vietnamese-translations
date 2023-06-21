@@ -10,7 +10,7 @@ This translations should be synchronized with [the upstream translation](https:/
 
 **Step 1:** Clone this repo.
 
-**Step 2:** Run `makepkg --install`.
+**Step 2:** Run `makepkg -f && makepkg --install`.
 
 **Step 3:** Open 0 A.D. and activate a mod named `vi-lang`, then restart.
 

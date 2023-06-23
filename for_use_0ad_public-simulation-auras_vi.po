@@ -4,7 +4,8 @@
 # project.
 # Translators:
 # Do Phan <thuthom.nguyen@gmail.com>, 2020
-# Hoàng Văn Khải, 2023
+# Khải, 2023
+# Khải, 2023
 # M1nkd3 <kimtan090807@gmail.com>, 2020
 # Nghĩa Cipher, 2022
 # M1nkd3 <kimtan090807@gmail.com>, 2020
@@ -14,7 +15,7 @@ msgstr ""
 "Project-Id-Version: 0 A.D.\n"
 "POT-Creation-Date: 2023-03-06 08:08+0000\n"
 "PO-Revision-Date: 2016-05-21 09:22+0000\n"
-"Last-Translator: Hoàng Văn Khải, 2023\n"
+"Last-Translator: Khải, 2023\n"
 "Language-Team: Vietnamese (http://app.transifex.com/wildfire-games/0ad/language/vi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -58,7 +59,7 @@ msgstr ""
 
 #: simulation/data/auras/structures/farmstead_60.jsonauraDescription
 msgid "Gatherers +75% farming rate around a captured Farmstead."
-msgstr ""
+msgstr "Người hái lượm +75% tốc độ canh tác xung quanh một Trang Trại đã chiếm được."
 
 #: simulation/data/auras/structures/farmstead_60.jsonauraName
 msgid "Farmland"
@@ -152,15 +153,15 @@ msgstr "Lớp bảo vệ tường thành"
 msgid ""
 "+20% maximum population limit (requires the “Glorious Expansion” "
 "technology)."
-msgstr ""
+msgstr "+20% giới hạn dân số tối đa (yêu cầu công nghệ “Mở Rộng Vinh Quang”)"
 
 #: simulation/data/auras/structures/wonder_population_cap.jsonauraName
 msgid "Glorious Expansion"
-msgstr "Mở rộng vinh quang "
+msgstr "Mở Rộng Vinh Quang"
 
 #: simulation/data/auras/structures/xp_trickle.jsonauraDescription
 msgid "Units gain experience while garrisoned inside the building."
-msgstr ""
+msgstr "Các đơn vị tăng kinh nghiệm khi đóng quân bên trong tòa nhà."
 
 #: simulation/data/auras/structures/xp_trickle.jsonauraName
 msgid "Rigorous Training"
@@ -595,7 +596,7 @@ msgstr ""
 
 #: simulation/data/auras/units/han_minister_gathering.jsonauraDescription
 msgid "Gatherers +2% gathering rate for every nearby Minister."
-msgstr ""
+msgstr "Người hái lượm +2% tốc độ cho mỗi Bộ trưởng gần đó."
 
 #: simulation/data/auras/units/han_minister_gathering.jsonauraName
 msgid "Minister over the Masses"
